@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<head>
+    <title>Hayat</title>
+    <script type="text/javascript">
+        window.alert("Hayat")
+        </script>
+   </head>     
+       <body>
+           <script language="javascript"type="text/javascript">
+               document.write("hello world")
+           </script>
+    </body>
+
+<form>
+   <select id="country" name="country">
+   <option value="ng" >Nigeria>/option>
+   <option value="ke" >Kenya>/option>
+   <option value="usa">USA>/option>
+   </select>
+</form>
+<P>
+<input type="button"value="Button">
+<input type="reset"value="reset">
+<input type="submit"value="submit">
+</P>
+<head>
+    <script type= "text/javascript">
+        function sayHello(){
+            alert("Hello World")
+        }
+    </script>
+</head>
+<body>
+    <input type="button"onclick="sayHello()"value="Say hello" />
+</body>     
+
+

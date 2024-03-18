@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .header {
+            background-color: 
+            turquoise;
+                     text-align: center;
+                     padding: 30px ;
+        }
+        .nav a {
+            text-decoration: 
+            none;
+                      float:left;
+                      display: block;
+                      padding: 10px;
+        }
+          .nav a:hover{
+            color: blue;
+          }
+          #active{
+            background-color: 
+            green;
+          }
+
+          </style>
+    </head>
+    <body>
+    <div class="header">
+        <h1>am Boujee </h1>
+    </div>
+    <div class="nav">
+        <a href="HTML 1"
+        >home</a>
+            <a href="menu html"
+     id="active">Menu</a>
+     <a href="">About us</a>
+     <a href="">contact us</a>
+    </div>
+</body>
+</html>
